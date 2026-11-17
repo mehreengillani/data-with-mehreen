@@ -1,0 +1,40 @@
+---
+title: "What Do People Buy With Coffee? Market Basket Analysis on Bakery Data"
+date: "2026-11-24"
+categories: [project, eda, association-rules, python]
+description: "Using association rules on 9,000+ bakery transactions to find which items sell together."
+draft: true   # remove this line when the post is ready to publish
+---
+
+## The question
+<!-- One or two sentences: why should anyone care what's bought together? (store layout, combo deals) -->
+
+## The data
+<!-- BreadBasket dataset: source, number of rows/transactions, columns. Show df.head(). -->
+
+## Quick EDA
+<!-- Top 10 items bar chart · busiest hours/days -->
+
+## Market basket analysis in 3 ideas
+<!-- Explain support, confidence and lift with one simple example each -->
+
+## Results
+<!-- Top rules table + a short interpretation of each -->
+
+## What I'd tell the bakery owner
+<!-- 2–3 business recommendations -->
+
+## Code
+<!-- Link to the GitHub notebook -->
+
+```python
+import pandas as pd
+from mlxtend.frequent_patterns import apriori, association_rules
+
+df = pd.read_csv("BreadBasket_DMS.csv")
+basket = (df.groupby(["Transaction", "Item"]).size()
+            .unstack(fill_value=0).gt(0))
+freq = apriori(basket, min_support=0.01, use_colnames=True)
+rules = association_rules(freq, metric="lift", min_threshold=1)
+rules.sort_values("lift", ascending=False).head(10)
+```

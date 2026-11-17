@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Data with Mehreen"
+  description: "Practical data science, one small project at a time."
+  site-url: https://mehreengillani.github.io/data-with-mehreen
+  repo-url: https://github.com/mehreengillani/data-with-mehreen
+  navbar:
+    right:
+      - text: Blog
+        href: index.qmd
+      - about.qmd
+      - icon: github
+        href: https://github.com/mehreengillani
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mehreengillani
+      - icon: rss
+        href: index.xml
+  page-footer:
+    center: "© 2026 Data with Mehreen · Built with Quarto"
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    code-copy: true
+    code-fold: show

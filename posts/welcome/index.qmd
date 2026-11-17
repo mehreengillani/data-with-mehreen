@@ -1,0 +1,20 @@
+---
+title: "Welcome to Data with Mehreen"
+date: "2026-11-17"
+categories: [news]
+description: "Why I'm starting this blog and what you can expect every week."
+---
+
+I'm one month away from finishing my master's in Data Science, and I'm starting **Data with Mehreen** to share what I learned in a practical, beginner-friendly way.
+
+## What to expect
+
+- **One mini project every week**: real dataset, real code, clear takeaways
+- **Concept explainers**: statistics and ML ideas in plain English
+- **Lessons learned**: the mistakes I made so you don't have to
+
+## First up
+
+What can a bakery's sales data tell us about what people buy together? Next week I'll use market basket analysis on the BreadBasket dataset to find out. 🥐☕
+
+Follow along on [GitHub](https://github.com/mehreengillani) and LinkedIn.

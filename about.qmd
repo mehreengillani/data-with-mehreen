@@ -1,0 +1,38 @@
+---
+title: "Hi, I'm Mehreen 👋"
+# image: profile.jpg   # uncomment after adding your photo to this folder
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mehreengillani
+    - icon: github
+      text: GitHub
+      href: https://github.com/mehreengillani
+    - icon: journal-code
+      text: RPubs
+      href: https://rpubs.com/Mehreen
+    - icon: person-badge
+      text: Portfolio
+      href: https://mehreengillani.github.io
+---
+
+**Data scientist. Mother. Traveller.**
+
+I'm Mehreen Ali Gillani, a data scientist based in New York City, finishing my MS in Data Science at CUNY.
+
+My path hasn't been a straight line. I started out as a network performance engineer at Nokia Siemens Networks, digging into telecom KPI data to find out why networks slowed down. I then did research on 4G networks and published work in the ACM Digital Library. After that, I spent ten years as a full-time mom. In 2024 I came back to tech, and this time I chose data science.
+
+Being a mother taught me patience and how to explain hard things simply. Travelling taught me to stay curious about how the world works. I bring both into how I do data science.
+
+## What you'll find here
+
+**Data with Mehreen** is where I share what I've learned, in plain English:
+
+- 🧪 **One mini project every week** on real public datasets
+- 🤖 **Machine learning and AI**: from regression and recommender systems to evaluating LLMs
+- 📊 **Python, R, SQL and dashboards** in Streamlit and Shiny
+- 💡 **Lessons from returning to tech** after a career break
+
+Whether you're starting out, switching careers or coming back after time away, I hope this helps you learn alongside me.

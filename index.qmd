@@ -1,0 +1,14 @@
+---
+title: "Data with Mehreen"
+subtitle: "Practical data science, one small project at a time."
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  feed: true
+page-layout: full
+title-block-banner: true
+---
