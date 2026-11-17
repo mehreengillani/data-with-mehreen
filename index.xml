@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Data with Mehreen</title>
+<link>https://mehreengillani.github.io/data-with-mehreen/</link>
+<atom:link href="https://mehreengillani.github.io/data-with-mehreen/index.xml" rel="self" type="application/rss+xml"/>
+<description>Practical data science, one small project at a time.</description>
+<generator>quarto-1.11.9</generator>
+<lastBuildDate>Tue, 17 Nov 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome to Data with Mehreen</title>
+  <dc:creator>Mehreen Ali Gillani</dc:creator>
+  <link>https://mehreengillani.github.io/data-with-mehreen/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>I’m one month away from finishing my master’s in Data Science, and I’m starting <strong>Data with Mehreen</strong> to share what I learned in a practical, beginner-friendly way.</p>
+<section id="what-to-expect" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-expect">What to expect</h2>
+<ul>
+<li><strong>One mini project every week</strong>: real dataset, real code, clear takeaways</li>
+<li><strong>Concept explainers</strong>: statistics and ML ideas in plain English</li>
+<li><strong>Lessons learned</strong>: the mistakes I made so you don’t have to</li>
+</ul>
+</section>
+<section id="first-up" class="level2">
+<h2 class="anchored" data-anchor-id="first-up">First up</h2>
+<p>What can a bakery’s sales data tell us about what people buy together? Next week I’ll use market basket analysis on the BreadBasket dataset to find out. 🥐☕</p>
+<p>Follow along on <a href="https://github.com/mehreengillani">GitHub</a> and LinkedIn.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://mehreengillani.github.io/data-with-mehreen/posts/welcome/</guid>
+  <pubDate>Tue, 17 Nov 2026 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

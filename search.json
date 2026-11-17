@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Hi, I’m Mehreen 👋",
+    "section": "",
+    "text": "Data scientist. Mother. Traveller.\nI’m Mehreen Ali Gillani, a data scientist based in New York City, finishing my MS in Data Science at CUNY.\nMy path hasn’t been a straight line. I started out as a network performance engineer at Nokia Siemens Networks, digging into telecom KPI data to find out why networks slowed down. I then did research on 4G networks and published work in the ACM Digital Library. After that, I spent ten years as a full-time mom. In 2024 I came back to tech, and this time I chose data science.\nBeing a mother taught me patience and how to explain hard things simply. Travelling taught me to stay curious about how the world works. I bring both into how I do data science."
+  },
+  {
+    "objectID": "about.html#what-youll-find-here",
+    "href": "about.html#what-youll-find-here",
+    "title": "Hi, I’m Mehreen 👋",
+    "section": "What you’ll find here",
+    "text": "What you’ll find here\nData with Mehreen is where I share what I’ve learned, in plain English:\n\n🧪 One mini project every week on real public datasets\n🤖 Machine learning and AI: from regression and recommender systems to evaluating LLMs\n📊 Python, R, SQL and dashboards in Streamlit and Shiny\n💡 Lessons from returning to tech after a career break\n\nWhether you’re starting out, switching careers or coming back after time away, I hope this helps you learn alongside me."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome to Data with Mehreen",
+    "section": "",
+    "text": "I’m one month away from finishing my master’s in Data Science, and I’m starting Data with Mehreen to share what I learned in a practical, beginner-friendly way."
+  },
+  {
+    "objectID": "posts/welcome/index.html#what-to-expect",
+    "href": "posts/welcome/index.html#what-to-expect",
+    "title": "Welcome to Data with Mehreen",
+    "section": "What to expect",
+    "text": "What to expect\n\nOne mini project every week: real dataset, real code, clear takeaways\nConcept explainers: statistics and ML ideas in plain English\nLessons learned: the mistakes I made so you don’t have to"
+  },
+  {
+    "objectID": "posts/welcome/index.html#first-up",
+    "href": "posts/welcome/index.html#first-up",
+    "title": "Welcome to Data with Mehreen",
+    "section": "First up",
+    "text": "First up\nWhat can a bakery’s sales data tell us about what people buy together? Next week I’ll use market basket analysis on the BreadBasket dataset to find out. 🥐☕\nFollow along on GitHub and LinkedIn."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data with Mehreen",
+    "section": "",
+    "text": "Welcome to Data with Mehreen\n\n\n\nnews\n\n\n\nWhy I’m starting this blog and what you can expect every week.\n\n\n\nMehreen Ali Gillani\n\n\nNov 17, 2026\n\n\n\n\n\n\nNo matching items"
+  }
+]

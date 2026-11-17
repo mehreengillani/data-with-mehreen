@@ -1,0 +1,13 @@
+/* Data with Mehreen: small custom touches */
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.3px;
+}
+
+.quarto-title-banner {
+  background: linear-gradient(135deg, #2c3e50 0%, #18bc9c 100%);
+}
+
+.listing-title {
+  font-weight: 600;
+}
